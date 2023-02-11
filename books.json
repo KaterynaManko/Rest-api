@@ -1,0 +1,17 @@
+[
+    {
+     "id": 1,
+     "title": "The Da Vinci Code",
+     "author": "Dan Brown"
+    },
+    {
+     "id": 2,
+     "title": "Notre Dame de Paris",
+     "author": "Victor Hugo"
+    },
+    {
+     "id": 3,
+     "title": "The Picture of Dorian Gray",
+     "author": "Oscar Wilde"
+    }
+   ]
